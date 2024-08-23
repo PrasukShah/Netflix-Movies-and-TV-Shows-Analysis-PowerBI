@@ -1,7 +1,5 @@
 # Netflix-Movies-and-TV-Shows-Analysis-PowerBI
 
-![Netflix Analysis Dashboard](Netflix-ovies-and-TV-Shows-Analysis-PowerBI/Netflix logo.png)
-
 ## Overview
 
 This project provides an in-depth analysis of Netflix's extensive collection of movies and TV shows, covering data from 1925 to 2020. The dashboard, created using Power BI, offers valuable insights into content distribution, genre popularity, global reach, and trends over time.
