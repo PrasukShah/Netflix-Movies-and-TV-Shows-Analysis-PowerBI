@@ -1,6 +1,6 @@
 # Netflix-Movies-and-TV-Shows-Analysis-PowerBI
 
-![Netflix Analysis Dashboard](Netflix logo.png)
+![Netflix Analysis Dashboard](Netflix-ovies-and-TV-Shows-Analysis-PowerBI/Netflix logo.png)
 
 ## Overview
 
